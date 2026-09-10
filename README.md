@@ -1,21 +1,174 @@
-# 💫 About Me:
-🔭 Currently building MavLab, a home sysadmin lab with a domain controller, Windows Server Core and Ubuntu member servers, and Rocky Linux for enterprise Linux practice<br>🌱 Learning PowerShell, focused on automation<br>⚡ Also running an Azure lab to build cloud + hybrid infrastructure skills<br>🎯 Transitioning from military aviation to IT through MSSA<br>📚 When I'm not in a lab environment, I'm probably reading — and ⚡ fun fact: I went from flying drones to managing domain controllers.
+<!-- MAVLAB LANDING PAGE -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/glass510) 
+# ⚔️ MAVLAB
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Lglass510&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Lglass510&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lglass510&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Cloud Infrastructure • Automation • Security
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
+
+> ## Curiosity → Capability → Automation → Expansion
+
+<br>
+
+### Build. Secure. Automate. Expand.
+
+<br>
+
+![Azure](https://img.shields.io/badge/Azure-Cloud%20Infrastructure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Defense-2E8B57?style=for-the-badge&logo=securityscorecard&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Lglass510&icon=4&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏰 Welcome to MAVLAB
+
+> **A hands-on environment for building, securing, automating, and expanding modern cloud infrastructure.**
+
+MAVLAB is my technical portfolio and evolving lab environment focused on:
+
+☁️ Azure Infrastructure  
+⚙️ PowerShell Automation  
+🛡️ Cloud Security  
+🐧 Windows and Linux Administration  
+🌐 Networking and Identity  
+🏗️ Infrastructure as Code  
+
+This is where curiosity becomes capability.
+
+Where repetitive work becomes automation.
+
+Where infrastructure becomes secure.
+
+And where every completed project becomes the foundation for something larger.
+
+---
+
+# 🧭 THE PATH
+
+My journey through infrastructure follows one principle:
+
+## Curiosity
+
+Ask how systems work.
+
+↓
+
+## Capability
+
+Learn how to build and administer them.
+
+↓
+
+## Automation
+
+Make infrastructure repeatable and scalable.
+
+↓
+
+## Expansion
+
+Build larger systems and continuously improve them.
+
+---
+
+# 🗺️ EXPLORE THE REALM
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+## ☁️ THE REALM
+
+### Azure Infrastructure
+
+Build the foundation.
+
+Virtual Machines  
+Networking  
+Storage  
+Identity  
+Resource Groups  
+Cloud Architecture  
+
+🔗 [Explore Azure Projects](./Azure)
+
+</td>
+
+<td width="33%" align="center">
+
+## ⚙️ THE FORGE
+
+### PowerShell Automation
+
+Turn knowledge into capability.
+
+Administration Scripts  
+Automation  
+Azure CLI  
+Reporting  
+Troubleshooting  
+Workflow Automation  
+
+🔗 [Enter The Forge](./PowerShell)
+
+</td>
+
+<td width="33%" align="center">
+
+## 🛡️ THE WARD
+
+### Security
+
+Defend the infrastructure.
+
+Security+ Concepts  
+Identity Security  
+Microsoft Security  
+Monitoring  
+Hardening  
+Threat Detection  
+
+🔗 [Explore Security](./Security)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚔️ THE LAB
+
+## My Hands-On Environment
+
+MAVLAB is built around practical infrastructure.
+
+```text
+                    ┌──────────────────┐
+                    │     AZURE        │
+                    │   CLOUD LAYER    │
+                    └────────┬─────────┘
+                             │
+                ┌────────────┼────────────┐
+                │                         │
+        ┌───────▼───────┐         ┌──────▼────────┐
+        │ INFRASTRUCTURE│         │   SECURITY    │
+        │               │         │               │
+        │ Virtual Machines         │ Identity
+        │ Networking               │ Monitoring
+        │ Storage                  │ Hardening
+        │ Identity                 │ Defense
+        └───────────────┘         └───────────────┘
+                │                         │
+                └────────────┬────────────┘
+                             │
+                    ┌────────▼────────┐
+                    │   POWERSHELL    │
+                    │   AUTOMATION    │
+                    └─────────────────┘
