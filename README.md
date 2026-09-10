@@ -1,174 +1,296 @@
-<!-- MAVLAB LANDING PAGE -->
-
 <div align="center">
 
-# ⚔️ MAVLAB
-
-### Cloud Infrastructure • Automation • Security
+<img src="./assets/mavlab-hero.png" width="100%" alt="MAVLAB — The Cloud Infrastructure Realm">
 
 <br>
 
-> ## Curiosity → Capability → Automation → Expansion
+⚔️ MAVLAB
+
+THE CLOUD INFRASTRUCTURE REALM
+
+☁️ Azure   ✦   ⚙️ PowerShell   ✦   🛡️ Security   ✦   🏗️ Automation
 
 <br>
 
-### Build. Secure. Automate. Expand.
+Curiosity → Capability → Automation → Expansion
 
-<br>
-
-![Azure](https://img.shields.io/badge/Azure-Cloud%20Infrastructure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Automation-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Security](https://img.shields.io/badge/Security-Defense-2E8B57?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Build. Secure. Automate. Expand.
 
 </div>
 
----
+🧭 ENTER THE REALM
 
-# 🏰 Welcome to MAVLAB
+Welcome to MAVLAB, my hands-on cloud infrastructure environment.
 
-> **A hands-on environment for building, securing, automating, and expanding modern cloud infrastructure.**
+This is where I document the transition from systems administration into Azure infrastructure, PowerShell automation, and cloud security—building real environments, understanding how they work, securing them, and eventually defining them as code.
 
-MAVLAB is my technical portfolio and evolving lab environment focused on:
+My purpose: Build the infrastructure. Secure the environment. Automate the work. Expand the capability.
 
-☁️ Azure Infrastructure  
-⚙️ PowerShell Automation  
-🛡️ Cloud Security  
-🐧 Windows and Linux Administration  
-🌐 Networking and Identity  
-🏗️ Infrastructure as Code  
-
-This is where curiosity becomes capability.
-
-Where repetitive work becomes automation.
-
-Where infrastructure becomes secure.
-
-And where every completed project becomes the foundation for something larger.
-
----
-
-# 🧭 THE PATH
-
-My journey through infrastructure follows one principle:
-
-## Curiosity
-
-Ask how systems work.
-
-↓
-
-## Capability
-
-Learn how to build and administer them.
-
-↓
-
-## Automation
-
-Make infrastructure repeatable and scalable.
-
-↓
-
-## Expansion
-
-Build larger systems and continuously improve them.
-
----
-
-# 🗺️ EXPLORE THE REALM
+<br>
 
 <table>
 <tr>
+<td width="33%" valign="top">
 
-<td width="33%" align="center">
+<img src="./assets/the-realm.png" width="100%" alt="The Realm">
 
-## ☁️ THE REALM
+☁️ THE REALM
 
-### Azure Infrastructure
+AZURE INFRASTRUCTURE
 
 Build the foundation.
 
-Virtual Machines  
-Networking  
-Storage  
-Identity  
-Resource Groups  
-Cloud Architecture  
+Virtual Machines
 
-🔗 [Explore Azure Projects](./Azure)
+Virtual Networks
+
+Storage
+
+Identity
+
+Monitoring
+
+Azure Security
 
 </td>
 
-<td width="33%" align="center">
+<td width="33%" valign="top">
 
-## ⚙️ THE FORGE
+<img src="./assets/the-forge.png" width="100%" alt="The Forge">
 
-### PowerShell Automation
+⚙️ THE FORGE
+
+POWERSHELL AUTOMATION
 
 Turn knowledge into capability.
 
-Administration Scripts  
-Automation  
-Azure CLI  
-Reporting  
-Troubleshooting  
-Workflow Automation  
+Azure Administration
 
-🔗 [Enter The Forge](./PowerShell)
+PowerShell Scripts
 
-</td>
+Automation
 
-<td width="33%" align="center">
+Reporting
 
-## 🛡️ THE WARD
+System Administration
 
-### Security
-
-Defend the infrastructure.
-
-Security+ Concepts  
-Identity Security  
-Microsoft Security  
-Monitoring  
-Hardening  
-Threat Detection  
-
-🔗 [Explore Security](./Security)
+Troubleshooting
 
 </td>
 
+<td width="33%" valign="top">
+
+<img src="./assets/the-ward.png" width="100%" alt="The Ward">
+
+🛡️ THE WARD
+
+CLOUD SECURITY
+
+Protect the environment.
+
+Security+
+
+Identity Security
+
+Azure Security
+
+Monitoring
+
+Threat Detection
+
+Hardening
+
+</td>
 </tr>
 </table>
 
----
+🏛️ THE LAB
 
-# ⚔️ THE LAB
+<img src="./assets/the-lab.png" width="100%" alt="The Lab">
 
-## My Hands-On Environment
+SYSTEMS & INFRASTRUCTURE FOUNDATIONS
 
-MAVLAB is built around practical infrastructure.
+Before the cloud, there is infrastructure.
 
-```text
-                    ┌──────────────────┐
-                    │     AZURE        │
-                    │   CLOUD LAYER    │
-                    └────────┬─────────┘
-                             │
-                ┌────────────┼────────────┐
-                │                         │
-        ┌───────▼───────┐         ┌──────▼────────┐
-        │ INFRASTRUCTURE│         │   SECURITY    │
-        │               │         │               │
-        │ Virtual Machines         │ Identity
-        │ Networking               │ Monitoring
-        │ Storage                  │ Hardening
-        │ Identity                 │ Defense
-        └───────────────┘         └───────────────┘
-                │                         │
-                └────────────┬────────────┘
-                             │
-                    ┌────────▼────────┐
-                    │   POWERSHELL    │
-                    │   AUTOMATION    │
-                    └─────────────────┘
+The Lab represents the foundation behind everything I build in Azure: understanding operating systems, identity, networking, and the systems that make modern infrastructure work.
+
+⚔️ Foundation
+
+Focus
+
+🖥️ Windows
+
+Administration & troubleshooting
+
+👥 Active Directory
+
+Identity & access
+
+🐧 Linux
+
+System administration
+
+🌐 Networking
+
+Connectivity & infrastructure
+
+🖧 Virtualization
+
+Hands-on environments
+
+🔧 Troubleshooting
+
+Understanding systems
+
+Understand the system before attempting to automate it.
+
+📜 THE ARCHIVES
+
+<img src="./assets/the-archives.png" width="100%" alt="The Archives">
+
+NOTES & DOCUMENTATION
+
+The Archives are where knowledge becomes reusable.
+
+Here I collect technical notes, command references, lessons learned, study material, and documentation from the environments I build.
+
+📘 Azure Notes
+⚙️ PowerShell Notes
+🛡️ Security Notes
+🐧 Linux Notes
+🌐 Networking Notes
+📋 Cheat Sheets
+🧠 Lessons Learned
+
+Knowledge preserved. Capability expanded.
+
+🌐 THE NETWORK
+
+<img src="./assets/the-network.png" width="100%" alt="The Network">
+
+CONNECTIVITY & ARCHITECTURE
+
+Every system is connected.
+
+The Network is the darker side of the MAVLAB realm—a place where connectivity, exposure, routing, DNS, and network security meet.
+
+🌐 Networking
+🔗 Connectivity
+📡 DNS
+🔀 Routing
+🛡️ Network Security
+☁️ Azure Networking
+
+Understand what connects the realm. Secure what crosses it.
+
+🏔️ THE ASCENT
+
+<img src="./assets/the-ascent.png" width="100%" alt="The Ascent">
+
+INFRASTRUCTURE AS CODE
+
+The next chapter is built higher.
+
+My long-term progression moves from administering infrastructure to automating it and ultimately defining it as code.
+
+Azure Administration
+        ↓
+PowerShell Automation
+        ↓
+Azure Security
+        ↓
+Azure CLI
+        ↓
+ARM Templates
+        ↓
+Bicep
+        ↓
+Infrastructure as Code
+
+Future Focus
+
+🏗️ ARM Templates
+🏗️ Bicep
+⚙️ Azure CLI
+🔄 Automation
+📦 Modular Deployments
+🛡️ Secure Infrastructure
+
+The goal is no longer simply managing infrastructure. The goal is defining infrastructure.
+
+⚔️ CURRENT QUESTS
+
+🛡️ Security+
+
+Strengthening and applying security fundamentals to the cloud environments I build.
+
+☁️ Azure
+
+Building practical cloud infrastructure and administration skills.
+
+⚙️ PowerShell
+
+Developing automation for infrastructure administration and Azure workflows.
+
+🏔️ ARM + Bicep
+
+Preparing to build repeatable infrastructure through code.
+
+🗺️ THE ROADMAP
+
+<img src="./assets/mavlab-roadmap.png" width="100%" alt="The MAVLAB Roadmap">
+
+                         🏔️ THE ASCENT
+                           ARM + Bicep
+                                ↑
+        🛡️ THE WARD  ←──────  MAVLAB  ──────→  ☁️ THE REALM
+          Security                              Azure
+                                ↑
+                          ⚙️ THE FORGE
+                            PowerShell
+                                ↑
+                           🏛️ THE LAB
+                  Windows • Linux • Networking
+                                ↑
+                         📜 THE ARCHIVES
+                      Notes • Documentation
+
+<div align="center">
+
+⚔️ THE MAVLAB PRINCIPLE
+
+✦ Curiosity
+
+Ask how the system works.
+
+⚔️ Capability
+
+Learn to build and administer it.
+
+⚙️ Automation
+
+Make the work repeatable.
+
+🏔️ Expansion
+
+Build something larger.
+
+<br>
+
+Curiosity → Capability → Automation → Expansion
+
+<br>
+
+☁️ Build the infrastructure.
+
+🛡️ Secure the environment.
+
+⚙️ Automate the work.
+
+🏔️ Expand the capability.
+
+<br>
+
+The lab is never finished. The realm keeps expanding.
+
+</div>
