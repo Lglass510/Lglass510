@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mavlab-hero.png" width="100%" alt="MAVLAB — The Cloud Infrastructure Realm">
+<img src="./assets/the-realm.png" width="100%" alt="MAVLAB — The Cloud Infrastructure Realm">
 
 <br>
 
