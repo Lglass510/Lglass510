@@ -33,7 +33,7 @@ My purpose: Build the infrastructure. Secure the environment. Automate the work.
 <td width="33%" valign="top">
 
 <a href="https://github.com/Lglass510/The_Sky_Hold">
-<img src="./assets/the-realm.png" width="100%" alt="Sky Hold">
+<img src="./assets/the-skyhold.png" width="100%" alt="Sky Hold">
 </a>
 
 🏰 SKY HOLD
