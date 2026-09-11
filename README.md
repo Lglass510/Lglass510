@@ -61,7 +61,7 @@ Azure Security
 <td width="33%" valign="top">
 
 <a href="https://github.com/Lglass510/The_Forge">
-<img src="./assets/the-forge.png" width="100%" alt="The Forge">
+<img src="./assets/.png" width="100%" alt="The Forge">
 </a>
 
 ⚙️ THE FORGE
