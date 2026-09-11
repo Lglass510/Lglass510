@@ -32,9 +32,11 @@ My purpose: Build the infrastructure. Secure the environment. Automate the work.
 <tr>
 <td width="33%" valign="top">
 
-<img src="./assets/the-realm.png" width="100%" alt="The Realm">
+<a href="https://github.com/Lglass510/The_Sky_Hold">
+<img src="./assets/the-realm.png" width="100%" alt="Sky Hold">
+</a>
 
-☁️ THE REALM
+🏰 SKY HOLD
 
 AZURE INFRASTRUCTURE
 
@@ -52,11 +54,15 @@ Monitoring
 
 Azure Security
 
+<a href="https://github.com/Lglass510/The_Sky_Hold">→ Enter Sky Hold</a>
+
 </td>
 
 <td width="33%" valign="top">
 
+<a href="https://github.com/Lglass510/The_Forge">
 <img src="./assets/the-forge.png" width="100%" alt="The Forge">
+</a>
 
 ⚙️ THE FORGE
 
@@ -76,11 +82,15 @@ System Administration
 
 Troubleshooting
 
+<a href="https://github.com/Lglass510/The_Forge">→ Enter the Forge</a>
+
 </td>
 
 <td width="33%" valign="top">
 
+<a href="https://github.com/Lglass510/The_Ward">
 <img src="./assets/the-ward.png" width="100%" alt="The Ward">
+</a>
 
 🛡️ THE WARD
 
@@ -100,19 +110,23 @@ Threat Detection
 
 Hardening
 
+<a href="https://github.com/Lglass510/The_Ward">→ Enter the Ward</a>
+
 </td>
 </tr>
 </table>
 
-🏛️ THE LAB
+🏛️ THE KEEP
 
-<img src="./assets/the-lab.png" width="100%" alt="The Lab">
+<a href="https://github.com/Lglass510/The_Keep">
+<img src="./assets/the-lab.png" width="100%" alt="The Keep">
+</a>
 
 SYSTEMS & INFRASTRUCTURE FOUNDATIONS
 
 Before the cloud, there is infrastructure.
 
-The Lab represents the foundation behind everything I build in Azure: understanding operating systems, identity, networking, and the systems that make modern infrastructure work.
+The Keep represents the foundation behind everything I build in Azure: understanding operating systems, identity, networking, and the systems that make modern infrastructure work.
 
 ⚔️ Foundation
 
@@ -144,9 +158,13 @@ Understanding systems
 
 Understand the system before attempting to automate it.
 
+<a href="https://github.com/Lglass510/The_Keep">→ Enter the Keep</a>
+
 📜 THE ARCHIVES
 
+<a href="https://github.com/Lglass510/The_Archives">
 <img src="./assets/the-archives.png" width="100%" alt="The Archives">
+</a>
 
 NOTES & DOCUMENTATION
 
@@ -164,15 +182,19 @@ Here I collect technical notes, command references, lessons learned, study mater
 
 Knowledge preserved. Capability expanded.
 
-🌐 THE NETWORK
+<a href="https://github.com/Lglass510/The_Archives">→ Enter the Archives</a>
 
-<img src="./assets/the-network.png" width="100%" alt="The Network">
+🌐 THE ROADS
+
+<a href="https://github.com/Lglass510/The_Roads">
+<img src="./assets/the-network.png" width="100%" alt="The Roads">
+</a>
 
 CONNECTIVITY & ARCHITECTURE
 
 Every system is connected.
 
-The Network is the darker side of the MAVLAB realm—a place where connectivity, exposure, routing, DNS, and network security meet.
+The Roads are the darker side of the MAVLAB realm—a place where connectivity, exposure, routing, DNS, and network security meet.
 
 🌐 Networking
 🔗 Connectivity
@@ -183,9 +205,13 @@ The Network is the darker side of the MAVLAB realm—a place where connectivity,
 
 Understand what connects the realm. Secure what crosses it.
 
+<a href="https://github.com/Lglass510/The_Roads">→ Enter the Roads</a>
+
 🏔️ THE ASCENT
 
+<a href="https://github.com/Lglass510/The_Sky_Hold">
 <img src="./assets/the-ascent.png" width="100%" alt="The Ascent">
+</a>
 
 INFRASTRUCTURE AS CODE
 
@@ -218,6 +244,8 @@ Future Focus
 
 The goal is no longer simply managing infrastructure. The goal is defining infrastructure.
 
+<a href="https://github.com/Lglass510/The_Sky_Hold">→ Begin the Ascent (in Sky Hold)</a>
+
 ⚔️ CURRENT QUESTS
 
 🛡️ Security+
@@ -243,13 +271,13 @@ Preparing to build repeatable infrastructure through code.
                          🏔️ THE ASCENT
                            ARM + Bicep
                                 ↑
-        🛡️ THE WARD  ←──────  MAVLAB  ──────→  ☁️ THE REALM
+        🛡️ THE WARD  ←──────  MAVLAB  ──────→  🏰 SKY HOLD
           Security                              Azure
                                 ↑
                           ⚙️ THE FORGE
                             PowerShell
                                 ↑
-                           🏛️ THE LAB
+                           🏛️ THE KEEP
                   Windows • Linux • Networking
                                 ↑
                          📜 THE ARCHIVES
@@ -294,3 +322,4 @@ Curiosity → Capability → Automation → Expansion
 The lab is never finished. The realm keeps expanding.
 
 </div>
+
