@@ -271,7 +271,7 @@ Preparing to build repeatable infrastructure through code.
                          🏔️ THE ASCENT
                            ARM + Bicep
                                 ↑
-        🛡️ THE WARD  ←──────  MAVLAB  ──────→  🏰 SKY HOLD
+        🛡️ THE WARD  ←──────  The Realm  ──────→  🏰 SKY HOLD
           Security                              Azure
                                 ↑
                           ⚙️ THE FORGE
