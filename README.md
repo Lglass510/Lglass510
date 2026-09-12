@@ -119,7 +119,7 @@ Hardening
 🏛️ THE KEEP
 
 <a href="https://github.com/Lglass510/The_Keep">
-<img src="./assets/the-lab.png" width="100%" alt="The Keep">
+<img src="./assets/the-keep.png" width="100%" alt="The Keep">
 </a>
 
 SYSTEMS & INFRASTRUCTURE FOUNDATIONS
