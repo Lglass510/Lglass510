@@ -187,7 +187,7 @@ Knowledge preserved. Capability expanded.
 🌐 THE ROADS
 
 <a href="https://github.com/Lglass510/The_Roads">
-<img src="./assets/the-network.png" width="100%" alt="The Roads">
+<img src="./assets/the-roads.png" width="100%" alt="The Roads">
 </a>
 
 CONNECTIVITY & ARCHITECTURE
