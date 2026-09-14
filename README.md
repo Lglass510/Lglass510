@@ -266,7 +266,7 @@ Preparing to build repeatable infrastructure through code.
 
 🗺️ THE ROADMAP
 
-<img src="./assets/mavlab-roadmap.png" width="100%" alt="The MAVLAB Roadmap">
+<img src="./assets/therealm-roadmap.png" width="100%" alt="The MAVLAB Roadmap">
 
                          🏔️ THE ASCENT
                            ARM + Bicep
