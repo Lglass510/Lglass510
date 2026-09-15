@@ -194,7 +194,7 @@ CONNECTIVITY & ARCHITECTURE
 
 Every system is connected.
 
-The Roads are the darker side of the MAVLAB realm—a place where connectivity, exposure, routing, DNS, and network security meet.
+The Roads are the darker side of the realm—a place where connectivity, exposure, routing, DNS, and network security meet.
 
 🌐 Networking
 🔗 Connectivity
