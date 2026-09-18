@@ -22,7 +22,7 @@ Build. Secure. Automate. Expand.
 
 Welcome to THE REALM, my hands-on cloud infrastructure environment.
 
-This is where I document the transition from systems administration into Azure infrastructure, PowerShell automation, and cloud security—building real environments, understanding how they work, securing them, and eventually defining them as code.
+This is where I document the transition from systems administration into Azure infrastructure, PowerShell automation, and cloud security,building real environments, understanding how they work, securing them, and eventually defining them as code.
 
 My purpose: Build the infrastructure. Secure the environment. Automate the work. Expand the capability.
 
