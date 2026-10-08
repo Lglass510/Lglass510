@@ -209,7 +209,7 @@ Understand what connects the realm. Secure what crosses it.
 
 🏔️ THE ASCENT
 
-<a href="https://github.com/Lglass510/The_Sky_Hold">
+<a href="https://github.com/Lglass510/The_Ascent_Bicep_Sentinel">
 <img src="./assets/the-ascent.png" width="100%" alt="The Ascent">
 </a>
 
@@ -244,7 +244,7 @@ Future Focus
 
 The goal is no longer simply managing infrastructure. The goal is defining infrastructure.
 
-<a href="https://github.com/Lglass510/The_Ascent_Bicept_Sentinel">→ Begin the Ascent </a>
+<a href="https://github.com/Lglass510/The_Ascent_Bicep_Sentinel">→ Begin the Ascent </a>
 
 ⚔️ CURRENT QUESTS
 
