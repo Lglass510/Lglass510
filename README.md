@@ -244,7 +244,7 @@ Future Focus
 
 The goal is no longer simply managing infrastructure. The goal is defining infrastructure.
 
-<a href="https://github.com/Lglass510/The_Sky_Hold">→ Begin the Ascent (in Sky Hold)</a>
+<a href="https://github.com/Lglass510/The_Ascent_Bicept_Sentinel">→ Begin the Ascent </a>
 
 ⚔️ CURRENT QUESTS
 
