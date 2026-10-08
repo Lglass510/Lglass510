@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/the-realm.png" width="100%" alt="MAVLAB — The Infrastructure of the Realm">
+<img src="./assets/the-realm.png" width="100%" alt="The Realm: hybrid cloud infrastructure lab">
 
 <br>
 
@@ -22,7 +22,7 @@ Build. Secure. Automate. Expand.
 
 Welcome to THE REALM, my hands-on cloud infrastructure environment.
 
-This is where I document the transition from systems administration into Azure infrastructure, PowerShell automation, and cloud security,building real environments, understanding how they work, securing them, and eventually defining them as code.
+This is where I document the transition from systems administration into Azure infrastructure, PowerShell automation, and cloud security: building real environments, understanding how they work, securing them, and eventually defining them as code.
 
 My purpose: Build the infrastructure. Secure the environment. Automate the work. Expand the capability.
 
@@ -88,29 +88,29 @@ Troubleshooting
 
 <td width="33%" valign="top">
 
-<a href="https://github.com/Lglass510/The_Ward">
+<a href="https://github.com/Lglass510/The_Ward_Sentinel_Soar">
 <img src="./assets/the-ward.png" width="100%" alt="The Ward">
 </a>
 
 🛡️ THE WARD
 
-CLOUD SECURITY
+DETECTION & RESPONSE
 
 Protect the environment.
 
-Security+
+Microsoft Sentinel
 
-Identity Security
+KQL Detection (T1098.003)
 
-Azure Security
+SOAR Playbooks
 
-Monitoring
+Entra ID Security
 
-Threat Detection
+Least-Privilege Automation
 
-Hardening
+Incident Response
 
-<a href="https://github.com/Lglass510/The_Ward">→ Enter the Ward</a>
+<a href="https://github.com/Lglass510/The_Ward_Sentinel_Soar">→ Enter the Ward</a>
 
 </td>
 </tr>
@@ -215,9 +215,11 @@ Understand what connects the realm. Secure what crosses it.
 
 INFRASTRUCTURE AS CODE
 
-The next chapter is built higher.
+The Ward, rebuilt as code.
 
-My long-term progression moves from administering infrastructure to automating it and ultimately defining it as code.
+I built The Ward by hand in the Azure portal. The Ascent defines the whole thing in Bicep, so it can be deleted and brought back with one deployment and two PowerShell scripts.
+
+I tore it down and rebuilt it from an empty resource group: the deployment finished in 1 minute 9 seconds with no portal clicks. Then the rebuilt system caught a live privilege escalation and disabled the account 15 seconds after the incident opened.
 
 Azure Administration
         ↓
@@ -225,26 +227,21 @@ PowerShell Automation
         ↓
 Azure Security
         ↓
-Azure CLI
-        ↓
-ARM Templates
-        ↓
 Bicep
         ↓
-Infrastructure as Code
+Infrastructure as Code ✓
 
-Future Focus
+Built With
 
-🏗️ ARM Templates
-🏗️ Bicep
-⚙️ Azure CLI
-🔄 Automation
-📦 Modular Deployments
-🛡️ Secure Infrastructure
+🏗️ Bicep modules, outputs, and `existing` references
+📦 One-command deploys with `.bicepparam`
+🔁 Idempotent names with `guid()`
+⚙️ PowerShell post-deploy scripts (Graph permissions, Entra log routing)
+🛡️ Least-privilege RBAC for the playbook's managed identity
 
 The goal is no longer simply managing infrastructure. The goal is defining infrastructure.
 
-<a href="https://github.com/Lglass510/The_Ascent_Bicep_Sentinel">→ Begin the Ascent </a>
+<a href="https://github.com/Lglass510/The_Ascent_Bicep_Sentinel">→ Enter the Ascent</a>
 
 ⚔️ CURRENT QUESTS
 
@@ -260,16 +257,16 @@ Building practical cloud infrastructure and administration skills.
 
 Developing automation for infrastructure administration and Azure workflows.
 
-🏔️ ARM + Bicep
+🏔️ Bicep
 
-Preparing to build repeatable infrastructure through code.
+The Ward now rebuilds from code. Next: Defender for Cloud and Azure Policy, remediating a deliberately misconfigured subscription and recording the before and after.
 
 🗺️ THE ROADMAP
 
-<img src="./assets/therealm-roadmap.png" width="100%" alt="The MAVLAB Roadmap">
+<img src="./assets/therealm-roadmap.png" width="100%" alt="The Realm roadmap">
 
                          🏔️ THE ASCENT
-                           ARM + Bicep
+                         Bicep (complete)
                                 ↑
         🛡️ THE WARD  ←──────  The Realm  ──────→  🏰 SKY HOLD
           Security                              Azure
