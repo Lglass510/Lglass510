@@ -18,6 +18,22 @@ Build. Secure. Automate. Expand.
 
 </div>
 
+## Lourie Glass
+
+Army veteran (MQ-1C operator and Aircraft Commander) moving into **SOC, NOC and IT support** work. CompTIA Security+ and Network+. Dallas-Fort Worth. [LinkedIn](https://www.linkedin.com/in/glass510)
+
+### Start here
+
+| Project | What it shows | Result |
+| --- | --- | --- |
+| [The Ward](https://github.com/Lglass510/The_Ward_Sentinel_Soar) | Microsoft Sentinel detection for Entra ID privilege escalation (MITRE T1098.003), investigation write-up, Logic App playbook that disables the account | The first playbook build reported success and disabled no one. I audited it, fixed five configuration bugs, and verified the fix in the audit logs |
+| [The Ascent](https://github.com/Lglass510/The_Ascent_Bicep_Sentinel) | The Ward rebuilt as code with Bicep and PowerShell | Rebuilt from an empty resource group in 1 min 9 s; the rebuilt playbook disabled a test attacker 15 s after the incident opened |
+| [AD bulk onboarding](https://github.com/Lglass510/The_Keep/tree/main/ActiveDirectory) | Help desk account provisioning with PowerShell | 206-record new-hire CSV: 10 managers, 201 employee accounts, 5 department OUs, manager links, 2 security groups |
+| [DC1 vulnerability assessment](https://github.com/Lglass510/The_Keep/tree/main/VulnerabilityAssessment) | nmap from Kali against my own domain controller, then patch-level checks from the inside | Found the DC unpatched and Windows Update failing |
+| [Hyper-V NAT troubleshooting](https://github.com/Lglass510/The_Keep/tree/main/Networking/Hyper-V-NAT-Gateway) | Layer-by-layer network troubleshooting | Ping failed while TCP and DNS worked; traced to a missing default gateway and a DNS forwarder problem |
+
+<br>
+
 🧭 ENTER THE REALM
 
 Welcome to THE REALM, my hands-on cloud infrastructure environment.
@@ -42,17 +58,15 @@ AZURE INFRASTRUCTURE
 
 Build the foundation.
 
-Virtual Machines
+Virtual Networks and Subnets
 
-Virtual Networks
+Network Security Groups
 
-Storage
+Storage Hardening
 
-Identity
+Az PowerShell and Azure CLI
 
-Monitoring
-
-Azure Security
+AZ-104 Lab Work
 
 <a href="https://github.com/Lglass510/The_Sky_Hold">→ Enter Sky Hold</a>
 
@@ -70,17 +84,13 @@ POWERSHELL AUTOMATION
 
 Turn knowledge into capability.
 
-Azure Administration
+PowerShell Module (MavLabTools)
 
-PowerShell Scripts
+Remoting to the Domain Controller
 
-Automation
+Idempotent AD Functions
 
-Reporting
-
-System Administration
-
-Troubleshooting
+Azure Storage Baseline Script
 
 <a href="https://github.com/Lglass510/The_Forge">→ Enter the Forge</a>
 
@@ -221,6 +231,7 @@ I built The Ward by hand in the Azure portal. The Ascent defines the whole thing
 
 I tore it down and rebuilt it from an empty resource group: the deployment finished in 1 minute 9 seconds with no portal clicks. Then the rebuilt system caught a live privilege escalation and disabled the account 15 seconds after the incident opened.
 
+```text
 Azure Administration
         ↓
 PowerShell Automation
@@ -230,6 +241,7 @@ Azure Security
 Bicep
         ↓
 Infrastructure as Code ✓
+```
 
 Built With
 
@@ -245,9 +257,9 @@ The goal is no longer simply managing infrastructure. The goal is defining infra
 
 ⚔️ CURRENT QUESTS
 
-🛡️ Security+
+🛡️ Security+ (certified)
 
-Strengthening and applying security fundamentals to the cloud environments I build.
+Applying security fundamentals to the cloud environments I build.
 
 ☁️ Azure
 
@@ -265,6 +277,7 @@ The Ward now rebuilds from code. Next: Defender for Cloud and Azure Policy, reme
 
 <img src="./assets/therealm-roadmap.png" width="100%" alt="The Realm roadmap">
 
+```text
                          🏔️ THE ASCENT
                          Bicep (complete)
                                 ↑
@@ -279,6 +292,7 @@ The Ward now rebuilds from code. Next: Defender for Cloud and Azure Policy, reme
                                 ↑
                          📜 THE ARCHIVES
                       Notes • Documentation
+```
 
 <div align="center">
 
